@@ -18,7 +18,7 @@
     "@tiptap/extension-underline": "^2.4.0",
     "@tiptap/extension-code-block-lowlight": "^2.11.2",
     "@tiptap/pm": "^2.4.0",
-    "@tiptap/starter-kit": "^2.4.0",
+    "@tiptap/starter-kit": "^2.14.0",
     "@tiptap/vue-2": "^2.4.0",
     "axios": "^0.18.1",
     "lowlight": "^2.7.0",
